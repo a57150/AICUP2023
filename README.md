@@ -1,5 +1,6 @@
 # AICUP-2023 Fall Tournament: Privacy Protection and Standardization of Medical Data Competition - Decoding Clinical Cases and Letting Data Tell Stories Competition
-TEAM TEAM_3964
+TEAM: TEAM_3964
+Rank: 41.50(33)
 
 ## Environment
 * Operating System: Ubuntu 22.04
