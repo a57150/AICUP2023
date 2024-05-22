@@ -3,7 +3,7 @@
 
 ## 語言
 * en [English](../README.md)
-* zh_TW [繁体中文](README.zh_TW.md)
+* zh_TW [繁體中文](README.zh_TW.md)
 
 ## 環境
 * 作業系統: Ubuntu 22.04
