@@ -3,6 +3,10 @@ Team: TEAM_3964
 
 Rank: 41.50(33)
 
+## Language
+* en [English](README.md)
+* zh_TW [繁体中文](readme/README.zh_TW.md)
+
 ## Environment
 * Operating System: Ubuntu 22.04
 * Cuda Version: 11.8
