@@ -2,7 +2,7 @@
 隊伍 TEAM_3964
 
 ## 語言
-* en [English](./README.md)
+* en [English](../README.md)
 * zh_TW [繁体中文](README.zh_TW.md)
 
 ## 環境
